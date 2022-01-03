@@ -1,9 +1,9 @@
 # Dell-7460-oc
 
 
-1.- Se genera un nuevo SMBIOS con la aplicacion GenSMBIOS con la siguiente caracteristica "MacBookPro14,1"-
+1.- Se genera un nuevo SMBIOS con la aplicacion GenSMBIOS con la siguiente caracteristica "MacBookPro14,1", se puede consultar este tutorial en Youtube https://www.youtube.com/watch?v=dovJUlKgS5E
 
-2.- Se parcha el kext con Hackintool, se puede consultar el siguiente tutorial en Youtube https://www.youtube.com/watch?v=rljg9Nk7c5w .
+2.- Se parcha el kext con Hackintool, se puede consultar el siguiente tutorial en Youtube https://www.youtube.com/watch?v=rljg9Nk7c5w 
 
 Y listo, funcianando bluetooth y Wi-Fi sin ningun problema.
 
