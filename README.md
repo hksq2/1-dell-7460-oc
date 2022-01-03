@@ -1,5 +1,24 @@
 # Dell-7460-oc
 
+
+1.- Se genera un nuevo SMBIOS con la aplicacion GenSMBIOS con la siguiente caracteristica "MacBookPro14,1"-
+
+2.- Se parcha el kext con Hackintool, se puede consultar el siguiente tutorial en Youtube https://www.youtube.com/watch?v=rljg9Nk7c5w .
+
+Y listo, funcianando bluetooth y Wi-Fi sin ningun problema.
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------
 EFI来源于 [HowieHye](https://github.com/HowieHye/Dell-7460-Hackintosh-OC)，但他不更新了，我在他的基础上更新了 kexts 和 opencore并分享，再次感谢 HowieHye。
 
 ## 说明
